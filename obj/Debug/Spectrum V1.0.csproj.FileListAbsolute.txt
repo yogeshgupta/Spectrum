@@ -1,0 +1,10 @@
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\bin\Debug\Spectrum V1.0.exe.config
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\bin\Debug\Spectrum V1.0.exe
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\bin\Debug\Spectrum V1.0.pdb
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Debug\spectrum.Properties.Resources.resources
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Debug\Spectrum V1.0.exe
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Debug\Spectrum V1.0.pdb
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Debug\spectrum.DD.resources

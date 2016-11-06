@@ -1,0 +1,27 @@
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\bin\Release\Spectrum V1.0.exe.config
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\bin\Release\Spectrum V1.0.exe
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\bin\Release\Spectrum V1.0.pdb
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\spectrum.DD.resources
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\spectrum.Properties.Resources.resources
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\Spectrum V1.0.exe
+C:\Users\Yogesh\Documents\Visual Studio 2008\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\Spectrum V1.0.pdb
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\bin\Release\Spectrum V1.0.exe.config
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\Spectrum V1.0.exe
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\Spectrum V1.0.pdb
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\bin\Release\Spectrum V1.0.exe
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\bin\Release\Spectrum V1.0.pdb
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\spectrum.DD.resources
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\spectrum.Properties.Resources.resources
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\bin\Release\Spectrum V1.0.exe.manifest
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\bin\Release\Spectrum V1.0.application
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\Spectrum V1.0.exe.manifest
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\Spectrum V1.0.application
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\bin\Release\Ionic.Zip.dll
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\spectrum.aboutspec.resources
+C:\Users\Yogesh\Documents\Visual Studio 2010\Projects\Spectrum V1.0\Spectrum V1.0\obj\Release\spectrum.abtathr.resources
